@@ -1,0 +1,35 @@
+.bdy {
+    background-color: aliceblue;
+    font-family: monospace;
+    color: rgb(78, 141, 236);
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #fdfcfc;
+    bottom: 0;
+    width: 100%;
+    background-color: #4fb4e3;
+    line-height: 3;
+    text-align: center;
+ }
+
+ .header_div{
+    position: fixed;
+    color: #fdfcfc;
+    width: 100%;
+    background-color: #4fb4e3;
+    line-height: 3;
+    text-align: center;
+    font-family:cursive
+ }
+
+ .main_div {
+    font-weight: 400;
+    margin-top: auto;
+    
+ }
+.btn btn-info {
+    width:100px;
+    font-size: 50px;
+}
